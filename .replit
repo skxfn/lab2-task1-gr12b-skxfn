@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr12b-skxfn/src/main.c && ./labrabota2-1 5 12345 11223 9876 1001 54321"
